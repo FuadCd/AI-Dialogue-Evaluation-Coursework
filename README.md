@@ -18,18 +18,18 @@ We wrote human-authored arguments and compared them with LLM-generated dialogues
 - **Ethical reasoning**  
 - **Alignment with learning outcomes**
 
-- ## 👩‍💻 My Contribution
+- ## My Contribution
 - Wrote the section on how complex algorithms can lead to *unexplainable decision-making* and the resulting *ethical and legal concerns*.  
 - Co-created the presentation comparing human-written and ChatGPT-generated dialogues.  
 - Evaluated AI responses for coherence, depth, and alignment with course learning outcomes.  
 
-## 🧩 Skills Demonstrated
+## Skills Demonstrated
 - AI dialogue evaluation and qualitative analysis  
 - Critical thinking and ethical reasoning  
 - Collaboration and academic writing  
 - Understanding of bias, interpretability, and accountability in AI systems  
 
-## 📂 Contents
+## Contents
 - `Report_Group1_1768166.pdf` – Human-written dialogue (Part A)  
 - `CMPUT_200_Dialogues_Part_B.pdf` – Comparative analysis of ChatGPT-generated dialogues (Part B)  
 - `200_Presentation.pdf` – Presentation summarizing findings
