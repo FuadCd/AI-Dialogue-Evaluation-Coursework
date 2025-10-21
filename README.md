@@ -18,7 +18,7 @@ We wrote human-authored arguments and compared them with LLM-generated dialogues
 - **Ethical reasoning**  
 - **Alignment with learning outcomes**
 
-- ## My Contribution
+## My Contribution
 - Wrote the section on how complex algorithms can lead to *unexplainable decision-making* and the resulting *ethical and legal concerns*.  
 - Co-created the presentation comparing human-written and ChatGPT-generated dialogues.  
 - Evaluated AI responses for coherence, depth, and alignment with course learning outcomes.  
